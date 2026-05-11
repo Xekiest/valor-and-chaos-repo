@@ -5,7 +5,7 @@
     "Punchline": "FFXIV 2d20 tabletop toolkit",
     "Description": "Character sheet, trackers, roller, and DM tools for Valor & Chaos in FFXIV.",
     "InternalName": "ValorAndChaos",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "v1.0.1.0",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Xekiest/valor-and-chaos-repo",
     "DalamudApiLevel": 15,
